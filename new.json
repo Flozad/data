@@ -1,0 +1,86 @@
+[
+    {
+        "author": "Verlaine",
+        "id": 1,
+        "name": "La Louange De Laure Et De Petrarque",
+        "url": "LaLouangeDeLaureEtDePetrarqueVerlaine"
+    },
+    {
+        "author": "Vidal De Battini",
+        "id": 2,
+        "name": "La Niña Y La Mujer Mala (Catamarca)",
+        "url": "LaNiñaYLaMujerMalaCatamarcaVidalDeBattini"
+    },
+    {
+        "author": "Calvo Maturana",
+        "id": 3,
+        "name": "Monarquía, Nación Y Guerra De La Independencia",
+        "url": "MonarquíaNaciónYGuerraDeLaIndependenciaCalvoMaturana"
+    },
+    {
+        "author": "Vidal De Battini",
+        "id": 4,
+        "name": "Por Qué Los Perros Se Huelen (Buenos Aires) 4",
+        "url": "PorQuéLosPerrosSeHuelenBuenosAires4VidalDeBattini"
+    },
+    {
+        "author": "Vidal De Battini",
+        "id": 5,
+        "name": "Taa Hombres; Caprichosos, Gallu, Qarampuka, Carnero Y Centella",
+        "url": "TaaHombresCaprichososGalluQarampukaCarneroYCentellaVidalDeBattini"
+    },
+    {
+        "author": "Chassignet",
+        "id": 6,
+        "name": "\"A Beaucoup De Danger Est Sujette La Fleura Beaucoup De Danger Est Sujette La Fleur\"",
+        "url": "ABeaucoupDeDangerEstSujetteLaFleuraBeaucoupDeDangerEstSujetteLaFleurChassignet"
+    },
+    {
+        "author": "Espronceda",
+        "id": 7,
+        "name": "\"A La Muerte De Torrijos Y Sus Compañeros\"",
+        "url": "ALaMuerteDeTorrijosYSusCompañerosEspronceda"
+    },
+    {
+        "author": "Mármol",
+        "id": 8,
+        "name": "\"A La Señorita E. J. El Día De Su Cumpleañosa La Señorita A. R.\"",
+        "url": "ALaSeñoritaEJElDíaDeSuCumpleañosaLaSeñoritaARMármol"
+    },
+    {
+        "author": "Mármol",
+        "id": 9,
+        "name": "\"A Un Alhelía Un Alhelí Blancoa Un Alhelí Blanco\"",
+        "url": "AUnAlhelíaUnAlhelíBlancoaUnAlhelíBlancoMármol"
+    },
+    {
+        "author": "Mármol",
+        "id": 10,
+        "name": "\"A Una Señorita El Día De Sus 15 Añosa Una Señorita El Día De Sus 15 Años\"",
+        "url": "AUnaSeñoritaElDíaDeSus15AñosaUnaSeñoritaElDíaDeSus15AñosMármol"
+    },
+    {
+        "author": "Ángel",
+        "id": 11,
+        "name": "\"A Victoria Colonna\"",
+        "url": "AVictoriaColonnaÁngel"
+    },
+    {
+        "author": "Monroy Zuluaga",
+        "id": 12,
+        "name": "\"Acercamiento A Las Luchas Axiológicas En El Amor En Los Tiempos Del Cólera\"",
+        "url": "AcercamientoALasLuchasAxiológicasEnElAmorEnLosTiemposDelCóleraMonroyZuluaga"
+    },
+    {
+        "author": "Villoro",
+        "id": 13,
+        "name": "\"Adivine, Equivóqueseadivine, Equivóquese»Adivine, Equivóquese»\"",
+        "url": "AdivineEquivóqueseadivineEquivóquese»AdivineEquivóquese»Villoro"
+    },
+    {
+        "author": "Mülbert",
+        "id": 14,
+        "name": "\"Aiesad Del Impreso A La Multimedia41Ried V. 14: 1, 2011, Pp 41-54La Transformación Del Proceso De Diseño Instruccional\"",
+        "url": "AiesadDelImpresoALaMultimedia41RiedV1412011Pp4154LaTransformaciónDelProcesoDeDiseñoInstruccionalMülbert"
+    }
+]
