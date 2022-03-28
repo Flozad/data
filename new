@@ -1,0 +1,23 @@
+{
+    "1":[{
+        "author": "Verlaine",
+        "id": 1,
+        "name": "La Louange De Laure Et De Petrarque",
+        "url": "LaLouangeDeLaureEtDePetrarqueVerlaine"
+    }
+    ],
+    "2":[
+    {
+        "author": "Vidal De Battini",
+        "id": 2,
+        "name": "La Niña Y La Mujer Mala (Catamarca)",
+        "url": "LaNiñaYLaMujerMalaCatamarcaVidalDeBattini"
+    }
+        ],
+    "3":[{
+        "author": "Calvo Maturana",
+        "id": 3,
+        "name": "Monarquía, Nación Y Guerra De La Independencia",
+        "url": "MonarquíaNaciónYGuerraDeLaIndependenciaCalvoMaturana"
+    }],
+{
